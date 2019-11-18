@@ -1,0 +1,26 @@
+.chat-stream {
+    margin:0;
+    height: 75vh;
+
+    background-color: firebrick;
+    border: solid 10px;
+
+    display: flex;
+    align-items: flex-end;
+
+    background-color: seagreen;
+    color: indigo;
+
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    display: grid;
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
